@@ -423,3 +423,7 @@ The upload UI will reject each zip with a description-too-long error because eve
 - claude.ai does not support local shell commands; results may be less comprehensive than Claude Code workflows that rely on local scripts.
 - Cross-model verification (`ARS_CROSS_MODEL`) requires Claude Code with API keys.
 - Direct `.docx` generation requires Pandoc, and LaTeX/PDF output requires Claude Code with `tectonic`; claude.ai can still produce Markdown and DOCX conversion instructions.
+
+---
+
+[← Back to main README](../README.en.md) · [Architecture →](ARCHITECTURE.md) · [Performance →](PERFORMANCE.md)

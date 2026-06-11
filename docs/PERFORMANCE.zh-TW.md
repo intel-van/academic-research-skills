@@ -146,3 +146,7 @@ Material Passport 帶非空 `literature_corpus[]` 時，Phase 1 讀取量隨 cor
 | ~500 筆（大型文獻庫）| +~25-40K input + ~8-12K output | passport emit 前考慮先精簡 corpus |
 
 Step 2 search-fills-gap 在 `uncovered_topics` 小（case A）時會降低 external-DB 成本，可部分抵銷 Step 1。淨效應實測待真實 SR run instrumentation 後校準；目前不下總體數字結論。Parse 失敗約一個短 turn 成本（parse + emit `[CORPUS PARSE FAILURE]` + fallback）。
+
+---
+
+[← 返回主 README](../README.zh-TW.md) · [架構說明 →](ARCHITECTURE.md) · [安裝設定 →](SETUP.zh-TW.md)

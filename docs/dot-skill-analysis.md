@@ -797,3 +797,7 @@ Persona 六层架构告诉我们：一个人不是"一层"的，而是**六层**
 > **创建日期**：2026-06-10
 > **基于项目**：[colleague-skill (dot-skill)](https://github.com/titanwings/colleague-skill) 由 titanwings 团队开发
 > **文档目的**：深度学习笔记，记录从 dot-skill 项目中可以学到的核心技能和改进方向
+
+---
+
+[← 返回主 README](../README.md) · [Analysis: Core Skills →](core-skills-analysis.md)

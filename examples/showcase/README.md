@@ -55,3 +55,7 @@ Post-Publication: Manual WebSearch audit of all 68 refs → 21 issues found & fi
 ## Post-Publication Audit (2026-03-09)
 
 After the pipeline completed, a manual WebSearch audit of all 68 references revealed 21 issues (31%) that survived three rounds of automated integrity checking. This stress test led to the integrity verification agent v2.0 overhaul (Anti-Hallucination Mandate, gray-zone elimination, known hallucination pattern library). See [post_publication_audit_2026-03-09.pdf](post_publication_audit_2026-03-09.pdf) for the full report.
+
+---
+
+[← Back to main README](../../README.en.md) · [Architecture →](../../docs/ARCHITECTURE.md)

@@ -39,3 +39,7 @@
 - v3.6.7 Step 6 + Step 8 ship is large; bundling docs-prose changes with implementation increases review surface without adding test coverage.
 - The retirement is decoupled by design — fixture set and lint already track the 17-ID inventory. Prose drift was identified during §7.1 review and noted for follow-up.
 - A future reviewer who sees "18 patterns" in upstream prose during v3.6.7 review can match it against this TODO file and confirm the discrepancy is logged, not unobserved.
+
+---
+
+[← 返回主 README](../../README.md) · [架构全景](../../docs/ARCHITECTURE.md)

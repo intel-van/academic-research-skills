@@ -592,3 +592,7 @@ Phase 3b.3 surfaces §6 Deliverable 3 open questions: 6 baseline questions from 
 - #103 (v3.8 L3 audit agent) — disclosure granularity may feed audit signal; RubricEM integration section in #103 references stage-aware disclosure (Borrow 2 mention)
 - #104 (README Zhao et al. motivation) — corpus-scale evidence backing for why disclosure granularity matters
 - #105 (v3.7.3 migration tool) — orthogonal pattern reference if AI disclosure schema migration is later needed
+
+---
+
+[← 返回主 README](../../README.md) · [架构全景](../../docs/ARCHITECTURE.md)

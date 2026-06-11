@@ -205,3 +205,7 @@ Even on AUDIT_FAILED, the wrapper writes all four contract files (jsonl placehol
 ### Cost posture
 
 A typical Phase 2 chapter audit (synthesis + verification + bibliography bundle) runs codex `gpt-5.5` at `xhigh` reasoning effort for 30-90 seconds wall-clock per round. ARS-side cost is constant: the wrapper adds ~1-2 KB of metadata (sidecar + proposal entry) per audit run regardless of bundle size; the orchestrator's eleven-gate verification is sub-second per audit. The dominant cost is codex API usage on the deployment side, governed by audit template Section 1's three-round convergence target (§10 ship-quality target update).
+
+---
+
+[← Back to main README](../README.en.md) · [Architecture →](ARCHITECTURE.md) · [Setup Guide →](SETUP.md)

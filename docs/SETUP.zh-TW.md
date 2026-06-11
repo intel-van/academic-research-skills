@@ -423,3 +423,7 @@ zip -r academic-pipeline.zip academic-pipeline
 - claude.ai 不支援本機 shell commands；結果可能不如依賴本機 scripts 的 Claude Code workflows 完整。
 - 跨模型驗證（`ARS_CROSS_MODEL`）需要 Claude Code 與 API keys。
 - 直接產出 `.docx` 需要 Pandoc，LaTeX/PDF 輸出需要 Claude Code 搭配 `tectonic`；claude.ai 仍可產出 Markdown 與 DOCX 轉換說明。
+
+---
+
+[← 返回主 README](../README.zh-TW.md) · [架構說明 →](ARCHITECTURE.md) · [效能說明 →](PERFORMANCE.zh-TW.md)

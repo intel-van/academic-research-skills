@@ -824,3 +824,7 @@ After ship, update:
 16. Squash merge
 
 Steps 4-5 are the highest-risk: agent prompt + pipeline are the load-bearing intersection. Plan for 2-3 codex rounds focused there.
+
+---
+
+[← 返回主 README](../../README.md) · [架构全景](../../docs/ARCHITECTURE.md)

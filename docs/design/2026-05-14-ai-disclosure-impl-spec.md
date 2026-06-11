@@ -196,3 +196,7 @@ This is a public repository. Pre-push gates (per `~/.claude/CLAUDE.md` + `feedba
 - v3.2 venue disclosure policies database (source of truth Nature must de-dup against): `academic-paper/references/venue_disclosure_policies.md`
 - v3.7.3 trust-chain infrastructure (not invoked, but Dimension A5 reservation noted in Decision Doc §1.3): `docs/design/2026-05-12-ars-v3.7.3-claim-faithfulness-and-contaminated-source-spec.md`
 - #108 (implementation issue, this spec produced under)
+
+---
+
+[← 返回主 README](../../README.md) · [架构全景](../../docs/ARCHITECTURE.md)

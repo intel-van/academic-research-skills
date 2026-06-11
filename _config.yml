@@ -1,0 +1,14 @@
+# GitHub Pages 配置
+title: Academic Research Skills (ARS)
+description: 一套完整的学术研究 Claude Code 技能包，涵盖从文献检索到论文出版的全流程
+markdown: GFM
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - docs/
+  - docs/design/
+  - docs/migration/
+  - examples/showcase/

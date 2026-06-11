@@ -143,3 +143,7 @@ None at design time. All §4.4 Decision Doc concerns are frozen by impl-spec; th
 - Protocol: `academic-paper/references/policy_anchor_disclosure_protocol.md` §3.1
 - Referee: `scripts/policy_anchor_disclosure_referee.py` `RendererInputs.slr_lineage`
 - v3.7.1 pattern precedent: `academic-pipeline/agents/pipeline_orchestrator_agent.md` §"Cite-Time Provenance Finalizer (v3.7.1)" line 603
+
+---
+
+[← 返回主 README](../../README.md) · [架构全景](../../docs/ARCHITECTURE.md)

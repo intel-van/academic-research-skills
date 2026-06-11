@@ -182,3 +182,7 @@ Per `superpowers:test-driven-development`:
 - v3.7.3 PR #98: ship commit `4cc880f` — added contamination_signals to schema + bibliography_agent computation
 - Migration discipline precedent: memory `feedback_toml_duplicate_table_corruption` — round-trip parser principle (applied here via ruamel.yaml for YAML)
 - External motivation: Zhao et al. arXiv:2605.07723 (2026-05) — corpus-scale evidence anchor (README #104 propagation)
+
+---
+
+[← 返回主 README](../../README.md) · [架构全景](../../docs/ARCHITECTURE.md)

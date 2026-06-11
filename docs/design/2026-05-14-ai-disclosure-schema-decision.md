@@ -343,3 +343,7 @@ Findings did not reach 0 P2 in 11 rounds. The trajectory oscillates in the 1–3
 - #102 (v3.7.4 triangulation) — orthogonal advisory pattern
 - #103 (v3.8 L3 audit agent) — disclosure granularity may feed audit signal
 - #105 (v3.7.3 migration tool) — orthogonal pattern reference (not invoked since G3 D3 needs no migration)
+
+---
+
+[← 返回主 README](../../README.md) · [架构全景](../../docs/ARCHITECTURE.md)
